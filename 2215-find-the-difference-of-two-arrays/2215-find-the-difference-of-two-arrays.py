@@ -1,18 +1,18 @@
 class Solution(object):
     def findDifference(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[List[int]]
+        """
+        set1=set(nums1)
+        set2=set(nums2)
 
-        new1 = []
-
-        for i in nums1:
-            if i not in nums2:
-                if i not in new1:
-                    new1.append(i)
-
-        new2 = []
-
-        for i in nums2:
-            if i not in nums1:
-                if i not in new2:
-                    new2.append(i)
-
-        return [new1, new2]
+        a=set1.difference(set2)
+        b=set2.difference(set1)
+        ans=[]
+        x=list(a)
+        y=list(b)
+        ans=[x,y]
+        return ans
+       
