@@ -1,15 +1,9 @@
 class Solution(object):
     def search(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        flag=-1
+        x=0
         for i in range(len(nums)):
-            if nums[i]==target:
+            if nums[i] == target:
                 return i
-                flag=0
-        if flag==-1:
+                x=1
+        if x==0:
             return -1
-        
