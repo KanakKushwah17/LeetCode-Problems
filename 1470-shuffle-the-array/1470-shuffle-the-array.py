@@ -1,8 +1,12 @@
 class Solution(object):
     def shuffle(self, nums, n):
-        result=[]
+        """
+        :type nums: List[int]
+        :type n: int
+        :rtype: List[int]
+        """
+        res=[]
         for i in range(n):
-            result.append(nums[i])
-            result.append(nums[i+n])
-
-        return result
+            res.append(nums[i])
+            res.append(nums[i+n])
+        return res
