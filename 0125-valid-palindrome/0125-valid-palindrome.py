@@ -1,18 +1,7 @@
 class Solution(object):
     def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        new=""
-        for i in s:
-            if i.isalnum():
-                new=new+i.lower()
-        print(new)
-        if new==new[::-1]:
-            return True
-        else:
-            return False
+        word = ''.join(c for c in s if c.isalnum()).lower()
+        return word == word[::-1]
 
 
         
