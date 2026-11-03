@@ -5,8 +5,9 @@ class Solution(object):
         :rtype: int
         """
         count=0
+        m=max(nums)
         for i in nums:
-            while i<max(nums):
+            while i<m:
                 i=i+1
                 count=count+1
             
