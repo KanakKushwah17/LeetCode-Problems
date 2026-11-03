@@ -7,8 +7,6 @@ class Solution(object):
         count=0
         m=max(nums)
         for i in nums:
-            while i<m:
-                i=i+1
-                count=count+1
+            count+=m-i
             
         return count
