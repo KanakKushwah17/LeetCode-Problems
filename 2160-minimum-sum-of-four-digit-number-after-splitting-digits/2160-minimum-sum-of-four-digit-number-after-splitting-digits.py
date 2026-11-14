@@ -1,5 +1,9 @@
-class Solution:
-    def minimumSum(self, num: int) -> int:
+class Solution(object):
+    def minimumSum(self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
         nums = list(str(num))
         nums.sort()
         dig1 = nums[0]+ nums[2]
