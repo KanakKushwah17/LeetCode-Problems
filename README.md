@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+## String
+|  |
+| ------- |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
