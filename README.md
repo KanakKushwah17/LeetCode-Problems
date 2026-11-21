@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
