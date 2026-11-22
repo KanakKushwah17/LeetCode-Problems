@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
