@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
