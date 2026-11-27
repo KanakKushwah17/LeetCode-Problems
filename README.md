@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3099-harshad-number](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/3099-harshad-number) |
 ## Greedy
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KanakKushwah17/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
